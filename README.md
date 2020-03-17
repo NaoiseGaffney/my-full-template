@@ -1,5 +1,22 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
+
+
+Happy coding!
+# Code Institute Course - GitHub Example
+
+## Description
+This is a simple example of using HTML 5, CSS 3, Git, and GitHub.
+
+## Technology
+HTML 5
+CSS 3
+
+## Outcome
+A structure and content consisting of 3 web pages with links to Wikipedia covering 3 main streams.
+
+
+
 Welcome NaoiseGaffney,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
@@ -31,5 +48,3 @@ We continually tweak and adjust this template to help give you the best experien
 **December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
 --------
-
-Happy coding!
